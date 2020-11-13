@@ -1,0 +1,14 @@
+.app__stripeButton {
+  font-size: 1rem;
+  color: white;
+  background-color: #635bff;
+  border: none;
+  border-radius: 30px;
+  padding: 1rem 3rem;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+.app__stripeButton:hover {
+  color: white;
+  background-color: #635bff;
+}
