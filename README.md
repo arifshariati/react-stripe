@@ -2,6 +2,7 @@
 
 💳. stripe payment gateway react component. Do give it a try for your projects. For better experience of data flow, i have integrated firebase firestore to perform CRUD on stripe payment transaction.
 
+[Checkout DEMO](https://stripe-react-integration.netlify.app/)
 ## How it works !
 
 ![react-stripe](react-stripe.gif)
